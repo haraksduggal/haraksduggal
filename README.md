@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me haraksduggal@gmail.com
 
 
-<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Gurmukh-Singh-4253&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmukh-Singh-4253&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=harakssduggal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haraksduggal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 
 ## Github Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=gurmukh-singh-4253&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=haraksduggal&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
 ## Tools I have Used 
