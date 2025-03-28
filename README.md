@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me haraksduggal@gmail.com
 
 
-<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=harakssduggal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=haraksduggal&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haraksduggal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 
@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 I use macOS in my daily life. Currently. The distributions I have been using are the following:
 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&color=blue)
+
