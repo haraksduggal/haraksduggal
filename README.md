@@ -22,6 +22,10 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&color=black)
+![AOC](https://img.shields.io/badge/Advent%20of%20Code-0606AA?style=for-the-badge&logo=adventofcode&color=0F0F23)
+![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&color=white)
+
+
 
 
 ## Languages
