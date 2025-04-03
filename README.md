@@ -12,7 +12,8 @@
 <img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haraksduggal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaraksDuggal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaraksDuggal) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com) 
 
 
 ## Github Trophies
