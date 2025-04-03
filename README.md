@@ -15,6 +15,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaraksDuggal) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com) 
 
+## GitHub Commits
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/haraksduggal/snk/output/github-contribution-grid-snake.svg)
+
 
 ## Github Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
