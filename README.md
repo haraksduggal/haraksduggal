@@ -19,6 +19,7 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/haraksduggal/output/github-contribution-grid-snake.svg)
 
+
 ## Github Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=haraksduggal&column=10&theme=gruvbox&no-frame=true"/>
