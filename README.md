@@ -17,8 +17,7 @@
 
 ## GitHub Commits
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/haraksduggal/snk/output/github-contribution-grid-snake.svg)
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/haraksduggal/output/github-contribution-grid-snake.svg)
 
 ## Github Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
