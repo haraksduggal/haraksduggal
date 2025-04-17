@@ -17,7 +17,12 @@
 
 ## GitHub Commits
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/haraksduggal/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/haraksduggal/manas15khanna/blob/output/github-snake-dark.svg" width="1200px">
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haraksdugal&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Github Trophies
