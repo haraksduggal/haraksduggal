@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaraksDuggal) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com) 
 
-</div> -->
+</div> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/haraksduggal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
