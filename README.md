@@ -15,14 +15,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaraksDuggal) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com) 
 
-## GitHub Commits
-
-<img src="https://github.com/haraksduggal/manas15khanna/blob/output/github-snake-dark.svg" width="1200px">
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=haraksdugal&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div> -->
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/haraksduggal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/haraksduggal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/haraksduggal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/haraksduggal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 
 
 ## Github Trophies
