@@ -4,7 +4,7 @@
 - 😄 Pronouns: she/her
 - 👀 I’m interested in Computer Science
 - 🌱 I love to spend time listening to podcasts, take photographs, read books and be myself 
-- 👨‍💻 I’m a student. I am pursuing Bachelor's degree in Technology in CSE from Amity University Punjab. 
+- 👨‍💻 I’m a student, pursuing Bachelor's degree in Technology {CSE} from Amity University Punjab. 
 - 📫 How to reach me haraksduggal@gmail.com
 
 
