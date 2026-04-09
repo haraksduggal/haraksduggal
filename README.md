@@ -28,9 +28,9 @@ I'm a Computer Science student pursuing my B.Tech (CSE) from Amity University Pu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haraksduggal&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=haraksduggal&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haraksduggal&theme=tokyonight&include_all_commits=true&count_private=false&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haraksduggal&theme=tokyonight&include_all_commits=true&count_private=false&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=haraksduggal&theme=tokyonight&hide_border=true)
 
@@ -38,13 +38,9 @@ I'm a Computer Science student pursuing my B.Tech (CSE) from Amity University Pu
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haraksduggal&column=10&theme=gruvbox&no-frame=true" alt="trophies" />
-  </a>
-</p>
+[![Haraks's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haraksduggal&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
