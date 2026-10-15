@@ -85,7 +85,7 @@ Uncomment once the repo is public and populated.
 - **College Representative**, Amity University Punjab
 - **Chair**, IEEE Computer Society chapter, Amity University Punjab
 - **Creative Head**, Rotaract Club, Amity University Punjab
-- **Vice President Marketing**, AIESEC in Chandigarh
+- **Senior Manager, Outgoing Volunteer**, AIESEC in Chandigarh
 
 ---
 
