@@ -1,113 +1,110 @@
 <div align="center">
 
-# Hi there 👋 I'm Haraks Kaur Duggal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3670A0&height=180&section=header&text=Haraks%20Kaur%20Duggal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20AI%20%7C%20Data&descAlignY=58&descAlign=50" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=CSE+Student+%40+Amity+University+Punjab;Machine+Learning+Enthusiast;Photographer+%7C+Reader+%7C+Podcast+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Final-year+CSE+student+%40+Amity+University+Punjab;Building+ML+systems+that+solve+real+problems;RAG+%7C+Deep+Learning+%7C+Power+BI;Photographer+%7C+Reader+%7C+Podcast+Lover)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=netlify&logoColor=white)](https://haraksduggal.netlify.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/haraksduggal/)
 
 </div>
 
-I'm a final-year Computer Science student pursuing my B.Tech (CSE) from Amity University Punjab, with a CS minor from IIT Mandi. I work on machine learning, from research papers to applied systems, and recently completed an AI internship at Tynor Orthotics. Outside of code, you'll find me listening to podcasts, reading books, or capturing moments through photography.
+---
 
-- 🔭 **Currently working on:** sharpening my AI/ML profile ahead of graduate study (RAG, vector stores, fine-tuning, MLOps)
-- 🌱 **Currently learning:** deep learning and applied AI systems
-- 😄 **Pronouns:** she/her
-- 📫 **Reach me at:** haraksduggal@gmail.com
+### 👋 About me
+
+I'm a final-year Computer Science student at **Amity University Punjab**, with a CS minor from **IIT Mandi**. I like working on machine learning from research papers to applied systems.
+
+This year I was an **AI/ML Intern at Tynor Orthotics**. Last summer I was a **Research Intern at IIT Ropar**, where my project was **selected for Ministry-level review**.
+
+🔭 **Now:** building an AI-powered job market assistant (RAG + SQL)
+🌱 **Learning:** deep learning, retrieval-augmented generation, applied AI systems
+😄 **Pronouns:** she/her
+📫 **Reach me:** haraksduggal@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured projects
 
-### 🌡️ HVAC Optimization with Reinforcement Learning
-An AI-powered HVAC optimization system that uses reinforcement learning to intelligently place vents for maximum cooling efficiency. Built on a Deep Q-Network implemented from scratch. Basis for a co-authored IEEE paper.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Python, PyTorch, Reinforcement Learning (DQN)
-🔗 [minorproject-hvac](https://github.com/haraksduggal/minorproject-hvac)
+#### 📈 Job Market & Skills Demand Analytics
+Analyzed **8,950 job postings** and built a **4-page Power BI dashboard** on skill demand and market trends. Now being extended into a RAG-based assistant.
+
+**Stack:** `Python` `SQL` `Power BI` `RAG` `FAISS`
+🔗 [View repo](https://github.com/haraksduggal/Job_Market_AI)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌡️ HVAC Optimization with RL
+Reinforcement learning for HVAC control, with a **Deep Q-Network built from scratch**. Basis for a co-authored IEEE paper.
+
+**Stack:** `Python` `PyTorch` `DQN`
+🔗 [View repo](https://github.com/haraksduggal/minorproject-hvac)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 SOP Document Extraction
+An **on-prem pipeline** using Ollama and Qwen that converts **250+ unstructured documents** into structured data, keeping confidential data off the cloud.
+
+**Stack:** `Python` `Ollama` `Qwen`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎙️ YouTube Transcriber
+NLP pipeline using **OpenAI Whisper** for speech recognition, with timestamp alignment, multilingual translation, and automated PDF reports.
+
+**Stack:** `Python` `Whisper` `NLP`
+🔗 [View repo](https://github.com/haraksduggal/YouTube-Transcriber)
+
+</td>
+</tr>
+</table>
 
 <!--
-### 🏭 <TYNOR PROJECT NAME>
-<One or two sentences on what it does and the result it produced.>
-
-**Tech:** <languages / frameworks>
-🔗 [<repo-name>](https://github.com/haraksduggal/<repo-name>)
--->
-<!-- Paste your Tynor repo name, link, and a one-line description into the block
-     above, then delete the surrounding comment markers to make it show. -->
-
-<!--
-### 🔬 Microplastics Detection
-Deep learning pipeline for microplastics detection using ResNet50 + CBAM and
-EfficientNet-B0. Supports a co-authored IEEE research paper.
-
-**Tech:** Python, PyTorch, ResNet50, CBAM, EfficientNet
+#### 🔬 Microplastics Detection
+Deep learning pipeline using ResNet50 + CBAM and EfficientNet-B0. Supports a co-authored IEEE paper.
+**Stack:** `Python` `PyTorch` `ResNet50` `CBAM` `EfficientNet`
 🔗 [Microplastics_detection](https://github.com/haraksduggal/Microplastics_detection)
+Uncomment once the repo is public and populated.
 -->
-<!-- Uncomment the block above once the repo is public and populated. -->
 
 ---
 
-## 🌐 Socials
+### 🎓 Leadership & activities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraks-kaur-duggal-9720a2272/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaraksDuggal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haraksduggal@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/haraksduggal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?logo=netlify&logoColor=white)](https://haraksduggal.netlify.app)
+- **College Representative**, Amity University Punjab
+- **Chair**, IEEE Computer Society chapter, Amity University Punjab
+- **Creative Head**, Rotaract Club, Amity University Punjab
+- **Vice President Marketing**, AIESEC in Chandigarh
 
 ---
 
-## 📊 Top Languages
+### 🛠️ Tech stack
+
+**Languages:** `Python` `Java` `C++` `SQL` `HTML` `CSS` `LaTeX`
+
+**ML & Data:** `PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas` `FastAPI` `Streamlit` `FAISS` `Power BI`
+
+**Tools:** `Git` `GitHub` `Notion` `Jupyter`
+
+---
 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haraksduggal&theme=tokyonight&layout=compact&hide_border=true&hide=html,css,javascript,swift&exclude_repo=Haraks-portfolio,haraksduggal)
 
-</div>
+<br/>
 
----
-
-## 🏅 LeetCode Badges
-
-<p align="center">
-  <a href="https://leetcode.com/haraksduggal/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="haraks-feb-2024" height="200" width="200" /></a>
-  <a href="https://leetcode.com/haraksduggal/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="haraks-mar-2024" height="200" width="200" /></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-### ML / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<!-- Trim any of these you don't actually use, and add ones you do (e.g. TensorFlow, Hugging Face, OpenCV). -->
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&color=black)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-0606AA?style=for-the-badge&logo=adventofcode&color=0F0F23)
-
-### OS
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&color=blue)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=haraksduggal&color=6C63FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=haraksduggal&color=6C63FF&style=flat-square&label=Profile+views)
 
 </div>
